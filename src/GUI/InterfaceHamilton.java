@@ -470,7 +470,7 @@ public class InterfaceHamilton extends JFrame {
                             System.out.println("matrix: " + String.valueOf(matrix.getDistance(i, j)));
                             addingColumn[j + 1] = String.valueOf(matrix.getDistance(i, j));
                         } else {
-                            addingColumn[j + 1] = "no";
+                            addingColumn[j + 1] = "---";
                         }
                     }
                     firstColumn[i] = addingColumn;

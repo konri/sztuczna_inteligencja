@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Class-Path: jfreechart-1.0.9.jar colt-1.2.0.jar jung-3d-2.0.1.jar jung
+ -io-2.0.1.jar vecmath-1.3.1.jar j3d-core-1.3.1.jar jung-api-2.0.1.jar
+  jung-jai-2.0.1.jar stax-api-1.0.1.jar wstx-asl-3.2.6.jar concurrent-
+ 1.3.4.jar jfreechart-1.0.9.jar jung-samples-2.0.1.jar jung-3d-demos-2
+ .0.1.jar jung-algorithms-2.0.1.jar jung-graph-impl-2.0.1.jar jung-jai
+ -samples-2.0.1.jar collections-generic-4.01.jar jung-visualization-2.
+ 0.1.jar jfreechart-1.0.13.jar gwt-benchmark-viewer-1.5.1.jar colt-1.2
+ .0.jar jung-3d-2.0.1.jar jung-io-2.0.1.jar vecmath-1.3.1.jar j3d-core
+ -1.3.1.jar jung-api-2.0.1.jar jung-jai-2.0.1.jar stax-api-1.0.1.jar w
+ stx-asl-3.2.6.jar concurrent-1.3.4.jar jfreechart-1.0.9.jar jung-samp
+ les-2.0.1.jar jung-3d-demos-2.0.1.jar jung-algorithms-2.0.1.jar jung-
+ graph-impl-2.0.1.jar jung-jai-samples-2.0.1.jar collections-generic-4
+ .01.jar jung-visualization-2.0.1.jar jfreechart-1.0.9.jar
+Main-Class: GUI.InterfaceHamilton
+
